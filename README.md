@@ -2,7 +2,9 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/df92cb86d0ed462b823c3c0c091db2e6)](https://www.codacy.com/gh/jbbaillet85/documentez-votre-systeme-de-gestion-de-pizzeria/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jbbaillet85/documentez-votre-systeme-de-gestion-de-pizzeria&amp;utm_campaign=Badge_Grade)
 
 # P9-Documentez votre systeme de gestion de pizzeria
+
 Projet d'étude consistant à à produire la documentation attendue, à savoir :
+
 - un dossier de conception fonctionnelle,
 - un dossier de conception technique,
 - un dossier d’exploitation,
