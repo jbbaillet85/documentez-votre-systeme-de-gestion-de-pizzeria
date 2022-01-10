@@ -1,19 +1,19 @@
 CREATE DATABASE ocpizza;
 
 
-CREATE USER OCpizzaUser WITH PASSWORD 'ocPizza!';
+CREATE USER ocpizzauser WITH PASSWORD 'ocPizza!';
 
 
-ALTER ROLE OCpizzaUser
+ALTER ROLE ocpizzauser
 SET client_encoding TO 'utf8';
 
 
-ALTER ROLE OCpizzaUser
+ALTER ROLE ocpizzauser
 SET default_transaction_isolation TO 'read committed';
 
 
-ALTER ROLE OCpizzaUser
+ALTER ROLE ocpizzauser
 SET timezone TO 'UTC';
 
-GRANT ALL PRIVILEGES ON DATABASE ocpizzas TO OCpizzaUser;
+GRANT ALL PRIVILEGES ON DATABASE ocpizza TO ocpizzauser;
 
